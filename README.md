@@ -1,0 +1,1 @@
+# sym-group-irrep-restriction-decomp
